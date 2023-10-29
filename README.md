@@ -8,7 +8,6 @@
 ### CLICK THIS IMAGE 👇🏻
 
   <a href="https://elfen00xx.github.io/CALCULATOR-/">
-    <img alt=AMEEN-SER height="500" src="https://github.com/ELFEN00XX/CALCULATOR-/assets/144249230/75c63c25-1460-490b-88fd-460756061051" width="300">
+    <img alt=AMEEN-SER height="250" src="https://github.com/ELFEN00XX/CALCULATOR-/assets/144249230/0cbdb2d3-5f13-427c-9e4a-88b8b638f084" width="250">
    
 </a> 
-
